@@ -5,8 +5,8 @@ Based in Buenos Aires, Argentina, I bring over 15 years of experience in digital
 #### About my experience
 
 - Conducted lead development in Swift/Objective-C
-- Conducted memory optimizations and profiling to improve performance 
-- Collaborated on framework documentation to ensure best practices among developers
-- Collaborated with UI/UX designers to develop prototypes and UI requirements 
-- Collaborated closely with other team members to plan and develop requirements
+- Conducted memory optimizations and profiling to enhance performance 
+- Contributed to framework documentation to ensure best practices among developers
+- Collaborated with UI/UX designers to deliver prototypes and UI requirements 
+- Collaborated closely with other team members to plan and develop project requirements
 - Carried out CI/CD & App Store management, deployment and monitoring
